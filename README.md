@@ -244,3 +244,6 @@ This repository serves as the official landing page for **Opera GX**. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Opera GX today!**
+
+---
+**Last updated:** 2026-09-08 19:47:07 UTC
