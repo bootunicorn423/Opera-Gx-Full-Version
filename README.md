@@ -246,4 +246,4 @@ This repository serves as the official landing page for **Opera GX**. The softwa
 **Get the most recent version of Opera GX today!**
 
 ---
-**Last updated:** 2026-09-08 22:28:48 UTC
+**Last updated:** 2026-09-09 01:06:57 UTC
